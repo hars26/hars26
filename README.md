@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hars26
 - 👀 I’m interested in coding, app development
-- 🌱 I’m currently learning coding in c and c++
+- 🌱 I’m currently learning coding in c, c++, html, Javascript, php and mysql
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dm 
+- 📫 How to reach me: dm
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
